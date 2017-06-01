@@ -1,14 +1,6 @@
-# webShell
+# Dillon Moore
 
-This is my working  clone of the HTML5 Reset project
-https://github.com/murtaugh/HTML5-Reset
+Personal portfolio website.
 
-## Additional Resources
-Another basic setup resource:
-https://html5boilerplate.com/
-
-Custom basic setup generator:
-http://www.initializr.com/
-
-WordPress theme:
-https://github.com/murtaugh/HTML5-Reset-WordPress-Theme
+Accessable at:
+https://dtmoore140.github.io/
