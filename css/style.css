@@ -79,12 +79,17 @@
    background-color: yellow;
    padding: 10px;
  }
- #website-section {
-   background-color: red;
-   padding: 10px;
- }
  #music-section {
    background-color: blue;
    padding: 10px;
+ }
+ #site1 {
+   background-color: blue;
+ }
+ #site2 {
+   background-color: yellow;
+ }
+ #site3 {
+   background-color: red;
  }
  
