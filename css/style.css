@@ -79,6 +79,10 @@
    background-color: yellow;
    padding: 10px;
  }
+ #website-section {
+   background-color: red;
+   padding: 10px;
+ }
  #music-section {
    background-color: blue;
    padding: 10px;
