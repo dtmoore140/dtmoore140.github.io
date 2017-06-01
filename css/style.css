@@ -1,6 +1,4 @@
-p {
-    font-size: 2em;
-}
+
 
 .jumbotron h1 {
   font-weight: 300;
@@ -99,4 +97,8 @@ p {
  }
  #site3 {
    background-color: red;
+ }
+
+ #about-section {
+   font-size: 2em;
  }
