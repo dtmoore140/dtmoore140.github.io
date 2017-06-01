@@ -5,3 +5,9 @@
   font-size: 7.5rem;
   text-align: center;
 }
+
+
+.jumbotron {
+  background-image: url("background.jpg");
+  background-size: cover;
+}
