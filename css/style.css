@@ -1,7 +1,7 @@
 .jumbotron h1 {
-  font-family: 'Roboto', sans-serif;
   font-weight: 300;
   color: white;
-  font-size: 1.5em;
-  font-size: 3.75rem;
+  font-size: 3em;
+  font-size: 7.5rem;
+  text-align: center;
 }
