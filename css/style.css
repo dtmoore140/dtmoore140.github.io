@@ -28,7 +28,7 @@
   
   font-family: 'Roboto', sans-serif;
   font-weight: 300;
-  color: white;
+  color: black;
   font-size: 1.5em;
   font-size: 3.75rem;
 }
@@ -56,6 +56,12 @@
 /*
     Multicoloured Hover Variations
 */
+
+.navbar {
+    -webkit-box-shadow: 0 8px 6px -6px #999;
+    -moz-box-shadow: 0 8px 6px -6px #999;
+    box-shadow: 0 8px 6px -6px #999; 
+}
  
  #social-fb:hover {
      color: #3B5998;
