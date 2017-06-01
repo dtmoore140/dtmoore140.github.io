@@ -2,6 +2,11 @@ p {
     font-family: 'Asul';
 }
 
+.hideme
+{
+    opacity:0;
+}
+
 h1 {
     font-family: 'Candal';
 }
