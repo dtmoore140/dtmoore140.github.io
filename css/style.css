@@ -2,12 +2,6 @@ p {
     font-family: 'Asul';
 }
 
-.hideme
-{
-    opacity:0;
-    background-color: red;
-}
-
 h1 {
     font-family: 'Candal';
 }
@@ -109,4 +103,10 @@ h1 {
 }
 #site-info {
     font-size: 1.25em;
+}
+
+.hideme
+{
+    opacity:0;
+    background-color: blue;
 }
