@@ -6,7 +6,7 @@ $(document).ready(function() {
         /* Check the location of each desired element */
         $('.hideme').each( function(i){
             
-            var top_of_object = $(this).offset().top;
+            var top_of_object = $(this).offset().top + 100;
             var bottom_of_window = $(window).scrollTop() + $(window).height();
             
             /* If the top of the object is completely visible in the window, fade it it */
