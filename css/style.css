@@ -5,6 +5,7 @@ p {
 .hideme
 {
     opacity:0;
+    background-color: red;
 }
 
 h1 {
